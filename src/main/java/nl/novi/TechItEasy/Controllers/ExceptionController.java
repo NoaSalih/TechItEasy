@@ -1,4 +1,4 @@
-//package nl.novi.TechItEasy.Controllers.Exeptions;
+//package nl.novi.TechItEasy.Controllers;
 //
 //import org.springframework.http.HttpStatus;
 //import org.springframework.http.ResponseEntity;

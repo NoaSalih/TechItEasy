@@ -1,4 +1,4 @@
-package nl.novi.TechItEasy.Controllers.Exeptions;
+package nl.novi.TechItEasy.Controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
